@@ -1,4 +1,4 @@
-# Pydantic Crash Course (Commented)
+# Pydantic Study Material
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pydantic](https://img.shields.io/badge/Pydantic-%3E=2.0-green)
